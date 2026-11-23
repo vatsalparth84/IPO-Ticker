@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:13:00.373Z",
+ "updated": "2026-11-23T15:30:38.067Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -103,6 +103,17 @@
    "det": 1
   },
   {
+   "id": "encube-ethicals",
+   "name": "Encube Ethicals",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/encube-ethicals-logo.png",
+   "url": "https://www.ipoji.com/ipo/encube-ethicals-ipo",
+   "size": "₹3000 Crores",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
    "id": "avaada-electro",
    "name": "Avaada Electro",
    "type": "Mainboard",
@@ -169,17 +180,6 @@
    "logo": "https://media.ipoji.com/ipo/images/aj-packaging-logo.jpg",
    "url": "https://www.ipoji.com/ipo/a-j-packaging-ipo",
    "size": "₹54 Cr",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "encube-ethicals",
-   "name": "Encube Ethicals",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/encube-ethicals-logo.png",
-   "url": "https://www.ipoji.com/ipo/encube-ethicals-ipo",
-   "size": "₹3000 Crores",
    "src": "ipoji",
    "det": 1
   },
@@ -511,17 +511,6 @@
    "lot": 1200
   },
   {
-   "id": "ip-maxwell-engineering-ltd",
-   "name": "Maxwell Engineering Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
-   "src": "ipopremium",
-   "lo": 150,
-   "hi": 158,
-   "lot": 800
-  },
-  {
    "id": "ip-hgs",
    "name": "Hgs",
    "type": "Mainboard",
@@ -533,17 +522,6 @@
    "lot": 1200
   },
   {
-   "id": "ip-johnsoncab-electricals-ltd",
-   "name": "Johnsoncab Electricals Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
-   "src": "ipopremium",
-   "lo": 190,
-   "hi": 200,
-   "lot": 600
-  },
-  {
    "id": "ip-vectras-enprocon",
    "name": "Vectras Enprocon",
    "type": "Mainboard",
@@ -553,6 +531,28 @@
    "lo": 99,
    "hi": 105,
    "lot": 1200
+  },
+  {
+   "id": "ip-maxwell-engineering-ltd",
+   "name": "Maxwell Engineering Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
+   "src": "ipopremium",
+   "lo": 150,
+   "hi": 158,
+   "lot": 800
+  },
+  {
+   "id": "ip-johnsoncab-electricals-ltd",
+   "name": "Johnsoncab Electricals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
+   "src": "ipopremium",
+   "lo": 190,
+   "hi": 200,
+   "lot": 600
   },
   {
    "id": "ip-antala-industries-ltd",
@@ -577,17 +577,6 @@
    "lot": 182
   },
   {
-   "id": "ip-ajwa-projects-ltd",
-   "name": "Ajwa Projects Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
-   "src": "ipopremium",
-   "lo": 203,
-   "hi": 203,
-   "lot": 600
-  },
-  {
    "id": "ip-carver-roboweld-ltd",
    "name": "Carver Roboweld Ltd",
    "type": "Mainboard",
@@ -597,6 +586,17 @@
    "lo": 76,
    "hi": 80,
    "lot": 1600
+  },
+  {
+   "id": "ip-ajwa-projects-ltd",
+   "name": "Ajwa Projects Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
+   "src": "ipopremium",
+   "lo": 203,
+   "hi": 203,
+   "lot": 600
   },
   {
    "id": "ip-mksons-fine-jewels-ltd",
@@ -610,17 +610,6 @@
    "lot": 91
   },
   {
-   "id": "ip-wiscon-industries-ltd",
-   "name": "Wiscon Industries Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd",
-   "src": "ipopremium",
-   "lo": 194,
-   "hi": 204,
-   "lot": 600
-  },
-  {
    "id": "ip-sfc-environmental-technologies-ltd",
    "name": "Sfc Environmental Technologies Ltd",
    "type": "Mainboard",
@@ -630,6 +619,17 @@
    "lo": 313,
    "hi": 330,
    "lot": 45
+  },
+  {
+   "id": "ip-bls-polymers-ltd",
+   "name": "Bls Polymers Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd",
+   "src": "ipopremium",
+   "lo": 142,
+   "hi": 150,
+   "lot": 100
   }
  ]
 }
