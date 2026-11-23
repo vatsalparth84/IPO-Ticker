@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-23T04:37:46.717Z",
+ "updated": "2026-11-23T05:52:18.274Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 41
+   "count": 42
   },
   "ipopremium": {
    "ok": true,
@@ -155,6 +155,22 @@
    "logo": "https://media.ipoji.com/ipo/images/shree-siddhivinayak-greentech-industries-logo.png",
    "url": "https://www.ipoji.com/ipo/shree-siddhivinayak-greentech-industries-ipo",
    "size": "₹93.66 Cr",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "a-j-packaging",
+   "name": "A J Packaging",
+   "type": "SME",
+   "ex": "NSE SME",
+   "lo": 175,
+   "hi": 180,
+   "lot": 800,
+   "open": "2026-12-01",
+   "close": "2026-12-03",
+   "logo": "https://media.ipoji.com/ipo/images/aj-packaging-logo.jpg",
+   "url": "https://www.ipoji.com/ipo/a-j-packaging-ipo",
+   "size": "₹54 Cr",
    "src": "ipoji",
    "det": 1
   },
@@ -486,17 +502,6 @@
    "det": 1
   },
   {
-   "id": "ip-a-j-packaging-ltd",
-   "name": "A J Packaging Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1435/a-j-packaging-ltd",
-   "src": "ipopremium",
-   "lo": 175,
-   "hi": 180,
-   "lot": 800
-  },
-  {
    "id": "ip-vedant-poly-fabs-ltd",
    "name": "Vedant Poly Fabs Ltd",
    "type": "Mainboard",
@@ -616,6 +621,17 @@
    "lo": 194,
    "hi": 204,
    "lot": 600
+  },
+  {
+   "id": "ip-sfc-environmental-technologies-ltd",
+   "name": "Sfc Environmental Technologies Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd",
+   "src": "ipopremium",
+   "lo": 313,
+   "hi": 330,
+   "lot": 45
   }
  ]
 }
