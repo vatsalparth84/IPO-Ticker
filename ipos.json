@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:30:38.067Z",
+ "updated": "2026-11-23T16:44:53.097Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -533,17 +533,6 @@
    "lot": 1200
   },
   {
-   "id": "ip-maxwell-engineering-ltd",
-   "name": "Maxwell Engineering Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
-   "src": "ipopremium",
-   "lo": 150,
-   "hi": 158,
-   "lot": 800
-  },
-  {
    "id": "ip-johnsoncab-electricals-ltd",
    "name": "Johnsoncab Electricals Ltd",
    "type": "Mainboard",
@@ -553,6 +542,17 @@
    "lo": 190,
    "hi": 200,
    "lot": 600
+  },
+  {
+   "id": "ip-maxwell-engineering-ltd",
+   "name": "Maxwell Engineering Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
+   "src": "ipopremium",
+   "lo": 150,
+   "hi": 158,
+   "lot": 800
   },
   {
    "id": "ip-antala-industries-ltd",
@@ -588,17 +588,6 @@
    "lot": 1600
   },
   {
-   "id": "ip-ajwa-projects-ltd",
-   "name": "Ajwa Projects Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
-   "src": "ipopremium",
-   "lo": 203,
-   "hi": 203,
-   "lot": 600
-  },
-  {
    "id": "ip-mksons-fine-jewels-ltd",
    "name": "Mksons Fine Jewels Ltd",
    "type": "Mainboard",
@@ -608,6 +597,17 @@
    "lo": 153,
    "hi": 162,
    "lot": 91
+  },
+  {
+   "id": "ip-ajwa-projects-ltd",
+   "name": "Ajwa Projects Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
+   "src": "ipopremium",
+   "lo": 203,
+   "hi": 203,
+   "lot": 600
   },
   {
    "id": "ip-sfc-environmental-technologies-ltd",
