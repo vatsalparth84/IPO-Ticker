@@ -1,14 +1,13 @@
 {
- "updated": "2026-11-21T05:30:00.000Z",
+ "updated": "2026-11-23T03:36:47.178Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 39
+   "count": 41
   },
   "ipopremium": {
-   "ok": false,
-   "count": 0,
-   "error": "not checked yet (starter snapshot)"
+   "ok": true,
+   "count": 12
   }
  },
  "ipos": [
@@ -25,7 +24,9 @@
    "logo": "https://media.ipoji.com/ipo/images/crystal-crop-protection-logo.png",
    "url": "https://www.ipoji.com/ipo/crystal-crop-protection-ipo",
    "size": "₹455.72 Cr",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1,
+   "gmp": "₹14 (5%)"
   },
   {
    "id": "mahanadi-coalfields",
@@ -42,20 +43,24 @@
    "size": "₹8981.12 Cr",
    "src": "ipoji",
    "det": 1,
-   "gmp": "₹1 (1%)",
-   "sub": "0.49x"
+   "gmp": "₹1 (1%)"
   },
   {
    "id": "foodlink-fb",
    "name": "Foodlink F&B Holdings (India)",
    "type": "Mainboard",
    "ex": "NSE · BSE",
+   "lo": 180,
+   "hi": 191,
+   "lot": 78,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "logo": "https://media.ipoji.com/ipo/images/foodlink-fb-india-ltd-logo.jpeg",
    "url": "https://www.ipoji.com/ipo/foodlink-fb-ipo",
-   "size": "₹192 Crores Fresh + 88,35,382 Shares OFS",
-   "src": "ipoji"
+   "size": "₹360.76 Cr",
+   "src": "ipoji",
+   "det": 1,
+   "gmp": "₹12 (6%)"
   },
   {
    "id": "integris-medtech",
@@ -68,7 +73,37 @@
    "url": "https://www.ipoji.com/ipo/integris-medtech-ipo",
    "size": "₹600.00 Crores Fresh + 1,08,37,266 Shares OFS",
    "tent": true,
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "matangi-rubber",
+   "name": "Matangi Rubber",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "lo": 163,
+   "hi": 172,
+   "lot": 87,
+   "open": "2026-12-01",
+   "close": "2026-12-03",
+   "logo": "https://media.ipoji.com/ipo/images/matangi-rubber-logo.png",
+   "url": "https://www.ipoji.com/ipo/matangi-rubber-ipo",
+   "size": "₹125.16 Cr",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "monomark-engineering",
+   "name": "Monomark Engineering (India)",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "open": "2026-12-02",
+   "close": "2026-12-04",
+   "logo": "https://media.ipoji.com/ipo/monomark-engineering-logo.png",
+   "url": "https://www.ipoji.com/ipo/monomark-engineering-ipo",
+   "size": "2,70,00,000 shares",
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "avaada-electro",
@@ -78,7 +113,8 @@
    "logo": "https://media.ipoji.com/ipo/images/avaada-electro-logo.png",
    "url": "https://www.ipoji.com/ipo/avaada-electro-ipo",
    "size": "₹7,600 Crores Approx.",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "milestone-gears",
@@ -88,17 +124,8 @@
    "logo": "https://media.ipoji.com/ipo/images/milestone-gears-logo.png",
    "url": "https://www.ipoji.com/ipo/milestone-gears-ipo",
    "size": "₹1100 Crores Approx.",
-   "src": "ipoji"
-  },
-  {
-   "id": "monomark-engineering",
-   "name": "Monomark Engineering (India)",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/monomark-engineering-logo.png",
-   "url": "https://www.ipoji.com/ipo/monomark-engineering-ipo",
-   "size": "2,70,00,000 shares",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "watrana-rentals",
@@ -114,9 +141,7 @@
    "url": "https://www.ipoji.com/ipo/watrana-rentals-ipo",
    "size": "₹120.1 Cr",
    "src": "ipoji",
-   "det": 1,
-   "gmp": "₹45 (18%)",
-   "sub": "12.05x"
+   "det": 1
   },
   {
    "id": "shree-siddhivinayak-greentech-industries",
@@ -131,7 +156,8 @@
    "logo": "https://media.ipoji.com/ipo/images/shree-siddhivinayak-greentech-industries-logo.png",
    "url": "https://www.ipoji.com/ipo/shree-siddhivinayak-greentech-industries-ipo",
    "size": "₹93.66 Cr",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "encube-ethicals",
@@ -141,7 +167,8 @@
    "logo": "https://media.ipoji.com/ipo/images/encube-ethicals-logo.png",
    "url": "https://www.ipoji.com/ipo/encube-ethicals-ipo",
    "size": "₹3000 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "veritas-finance",
@@ -151,7 +178,8 @@
    "logo": "https://media.ipoji.com/ipo/images/veritas-finance-logo.png",
    "url": "https://www.ipoji.com/ipo/veritas-finance-ipo",
    "size": "₹2800 Crores Approx",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "sk-finance",
@@ -161,7 +189,8 @@
    "logo": "https://media.ipoji.com/ipo/images/sk-finance-logo.jpeg",
    "url": "https://www.ipoji.com/ipo/sk-finance-ipo",
    "size": "₹2200 Crores Approx",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "incred-holdings",
@@ -171,7 +200,8 @@
    "logo": "https://media.ipoji.com/ipo/images/incred-logo.png",
    "url": "https://www.ipoji.com/ipo/incred-holdings-ipo",
    "size": "₹3,500–4,500 Cr Approx",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "prestige-hospitality-ventures",
@@ -181,7 +211,8 @@
    "logo": "https://media.ipoji.com/ipo/images/prestige_logo.png",
    "url": "https://www.ipoji.com/ipo/prestige-hospitality-ventures-ipo",
    "size": "₹2700 Crores Approx",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "gujarat-victory-forging",
@@ -191,7 +222,8 @@
    "logo": "https://media.ipoji.com/ipo/images/gujarat-victory-logo.png",
    "url": "https://www.ipoji.com/ipo/gujarat-victory-forging-ipo",
    "size": "1,97,00,000 shares",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "hindustan-coca-cola",
@@ -201,7 +233,8 @@
    "logo": "https://media.ipoji.com/ipo/images/hindustan-coca-cola-holdings-logo.png",
    "url": "https://www.ipoji.com/ipo/hindustan-coca-cola-ipo",
    "size": "99,74,61,456 shares",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "swara-baby-products",
@@ -211,7 +244,8 @@
    "logo": "https://media.ipoji.com/ipo/images/swara-baby-logo.png",
    "url": "https://www.ipoji.com/ipo/swara-baby-products-ipo",
    "size": "₹1000 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "ags-health",
@@ -221,7 +255,8 @@
    "logo": "https://media.ipoji.com/ipo/images/ags-health-logo.png",
    "url": "https://www.ipoji.com/ipo/ags-health-ipo",
    "size": "₹4800 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "phonepe",
@@ -231,7 +266,8 @@
    "logo": "https://media.ipoji.com/ipo/images/phonepe-logo.png",
    "url": "https://www.ipoji.com/ipo/phonepe-ipo",
    "size": "₹12000 Cr",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "indiafirst-life",
@@ -241,7 +277,8 @@
    "logo": "https://media.ipoji.com/ipo/images/india-first-logo.png",
    "url": "https://www.ipoji.com/ipo/indiafirst-life-ipo",
    "size": "Rs. 500 crore and an offer for sale of 14 crore equity shares from selling shareholders",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "avanse-financial-services",
@@ -251,7 +288,8 @@
    "logo": "https://media.ipoji.com/ipo/images/avanse-financial-logo.png",
    "url": "https://www.ipoji.com/ipo/avanse-financial-services-ipo",
    "size": "Approx 3500 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "credila-financial-services",
@@ -261,7 +299,8 @@
    "logo": "https://media.ipoji.com/ipo/images/credila-financial-logo.jpeg",
    "url": "https://www.ipoji.com/ipo/credila-financial-services-ipo",
    "size": "₹5000 Crores Approx",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "carlsberg-india",
@@ -271,7 +310,8 @@
    "logo": "https://media.ipoji.com/ipo/images/carlsberg-india-logo.png",
    "url": "https://www.ipoji.com/ipo/carlsberg-india-ipo",
    "size": "8,64,18,887 shares",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "pushp-brand",
@@ -281,7 +321,8 @@
    "logo": "https://media.ipoji.com/ipo/images/pushp-brand-india-logo.png",
    "url": "https://www.ipoji.com/ipo/pushp-brand-ipo",
    "size": "74,45,000 shares",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "indian-gas-exchange",
@@ -291,7 +332,8 @@
    "logo": "https://media.ipoji.com/ipo/images/indian-gas-exchange-logo.jpg",
    "url": "https://www.ipoji.com/ipo/indian-gas-exchange-ipo",
    "size": "1,67,10,000 shares",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "south-eastern-coalfields",
@@ -301,7 +343,8 @@
    "logo": "https://media.ipoji.com/ipo/images/secl_logo.png",
    "url": "https://www.ipoji.com/ipo/south-eastern-coalfields-ipo",
    "size": "66,80,56,100 shares of ₹2",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "silver-consumer-electricals",
@@ -311,7 +354,8 @@
    "logo": "https://media.ipoji.com/ipo/images/silver-consumer-logo.png",
    "url": "https://www.ipoji.com/ipo/silver-consumer-electricals-ipo",
    "size": "₹1400 Crores Approx.",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "eldeco-infrastructure-properties",
@@ -321,7 +365,8 @@
    "logo": "https://media.ipoji.com/ipo/images/eldeco-infrastructure-logo.png",
    "url": "https://www.ipoji.com/ipo/eldeco-infrastructure-properties-ipo",
    "size": "₹1000 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "hero-fincorp",
@@ -331,7 +376,8 @@
    "logo": "https://media.ipoji.com/ipo/images/hero-finance-logo.png",
    "url": "https://www.ipoji.com/ipo/hero-fincorp-ipo",
    "size": "Approx 3,668 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "boat",
@@ -341,7 +387,8 @@
    "logo": "https://media.ipoji.com/ipo/images/boat-logo.png",
    "url": "https://www.ipoji.com/ipo/boat-ipo",
    "size": "₹1500 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "ardee-engineering",
@@ -351,7 +398,8 @@
    "logo": "https://media.ipoji.com/ipo/images/ardee-engineering-logo.jpg",
    "url": "https://www.ipoji.com/ipo/ardee-engineering-ipo",
    "size": "₹500 Crores Approx.",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "oyo",
@@ -361,7 +409,8 @@
    "logo": "https://media.ipoji.com/ipo/images/oyo-logo.png",
    "url": "https://www.ipoji.com/ipo/oyo-ipo",
    "size": "₹6,650 Crores Approx.",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "polymatech-electronics",
@@ -370,7 +419,8 @@
    "ex": "NSE · BSE",
    "url": "https://www.ipoji.com/ipo/polymatech-electronics-ipo",
    "size": "Approx 1500 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "jajoo-rashmi-refractories",
@@ -379,7 +429,8 @@
    "ex": "NSE · BSE",
    "logo": "https://media.ipoji.com/ipo/images/jajoo-rashmi-ipo-logo.png",
    "url": "https://www.ipoji.com/ipo/jajoo-rashmi-refractories-ipo",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "smpp",
@@ -389,16 +440,18 @@
    "logo": "https://media.ipoji.com/ipo/images/smpp-logo.png",
    "url": "https://www.ipoji.com/ipo/smpp-ipo",
    "size": "Approx ₹4000 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "ciel-hr-services",
    "name": "CIEL HR Services",
    "type": "Mainboard",
    "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/ciel-hr-services-ltd.jpeg",
+   "logo": "https://media.ipoji.com/ipo/images/ciel-hr-services-ltd.jpeg ",
    "url": "https://www.ipoji.com/ipo/ciel-hr-services-ipo",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "innovatiview-india",
@@ -408,7 +461,8 @@
    "logo": "https://media.ipoji.com/ipo/images/innovatiview_ipo_logo.png",
    "url": "https://www.ipoji.com/ipo/innovatiview-india-ipo",
    "size": "₹1500 Crores Approx.",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "sify-infinit-spaces",
@@ -418,7 +472,8 @@
    "logo": "https://media.ipoji.com/ipo/images/sify-infinit-spaces-logo.png",
    "url": "https://www.ipoji.com/ipo/sify-infinit-spaces-ipo",
    "size": "₹3700 Crores",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
   },
   {
    "id": "zepto",
@@ -428,7 +483,140 @@
    "logo": "https://media.ipoji.com/ipo/images/zepto-logo.png",
    "url": "https://www.ipoji.com/ipo/zepto-ipo",
    "size": "₹8,010 Cr Fresh + 11.34 Crore Shares OFS",
-   "src": "ipoji"
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "ip-a-j-packaging-ltd",
+   "name": "A J Packaging Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1435/a-j-packaging-ltd",
+   "src": "ipopremium",
+   "lo": 175,
+   "hi": 180,
+   "lot": 800
+  },
+  {
+   "id": "ip-vedant-poly-fabs-ltd",
+   "name": "Vedant Poly Fabs Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd",
+   "src": "ipopremium",
+   "lo": 88,
+   "hi": 94,
+   "lot": 1200
+  },
+  {
+   "id": "ip-maxwell-engineering-ltd",
+   "name": "Maxwell Engineering Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
+   "src": "ipopremium",
+   "lo": 150,
+   "hi": 158,
+   "lot": 800
+  },
+  {
+   "id": "ip-hgs",
+   "name": "Hgs",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1429/hgs",
+   "src": "ipopremium",
+   "lo": 114,
+   "hi": 120,
+   "lot": 1200
+  },
+  {
+   "id": "ip-johnsoncab-electricals-ltd",
+   "name": "Johnsoncab Electricals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
+   "src": "ipopremium",
+   "lo": 190,
+   "hi": 200,
+   "lot": 600
+  },
+  {
+   "id": "ip-vectras-enprocon",
+   "name": "Vectras Enprocon",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1431/vectras-enprocon",
+   "src": "ipopremium",
+   "lo": 99,
+   "hi": 105,
+   "lot": 1200
+  },
+  {
+   "id": "ip-antala-industries-ltd",
+   "name": "Antala Industries Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1427/antala-industries-ltd",
+   "src": "ipopremium",
+   "lo": 62,
+   "hi": 66,
+   "lot": 2000
+  },
+  {
+   "id": "ip-bombay-coated-special-steels-ltd",
+   "name": "Bombay Coated Special Steels Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1424/bombay-coated-special-steels-ltd",
+   "src": "ipopremium",
+   "lo": 78,
+   "hi": 82,
+   "lot": 182
+  },
+  {
+   "id": "ip-ajwa-projects-ltd",
+   "name": "Ajwa Projects Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
+   "src": "ipopremium",
+   "lo": 203,
+   "hi": 203,
+   "lot": 600
+  },
+  {
+   "id": "ip-carver-roboweld-ltd",
+   "name": "Carver Roboweld Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
+   "src": "ipopremium",
+   "lo": 76,
+   "hi": 80,
+   "lot": 1600
+  },
+  {
+   "id": "ip-mksons-fine-jewels-ltd",
+   "name": "Mksons Fine Jewels Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd",
+   "src": "ipopremium",
+   "lo": 153,
+   "hi": 162,
+   "lot": 91
+  },
+  {
+   "id": "ip-wiscon-industries-ltd",
+   "name": "Wiscon Industries Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd",
+   "src": "ipopremium",
+   "lo": 194,
+   "hi": 204,
+   "lot": 600
   }
  ]
 }
