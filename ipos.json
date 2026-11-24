@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:08:14.951Z",
+ "updated": "2026-11-24T23:37:40.079Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -94,11 +94,14 @@
    "name": "Monomark Engineering (India)",
    "type": "Mainboard",
    "ex": "NSE · BSE",
+   "lo": 60,
+   "hi": 65,
+   "lot": 230,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "logo": "https://media.ipoji.com/ipo/monomark-engineering-logo.png",
    "url": "https://www.ipoji.com/ipo/monomark-engineering-ipo",
-   "size": "2,70,00,000 shares",
+   "size": "₹175.5 Cr",
    "src": "ipoji",
    "det": 1
   },
