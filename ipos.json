@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:44:53.097Z",
+ "updated": "2026-11-24T03:17:12.373Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -500,6 +500,17 @@
    "det": 1
   },
   {
+   "id": "ip-airpro-technology-india-ltd",
+   "name": "Airpro Technology India Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1455/airpro-technology-india-ltd",
+   "src": "ipopremium",
+   "lo": 99,
+   "hi": 99,
+   "lot": 1200
+  },
+  {
    "id": "ip-vedant-poly-fabs-ltd",
    "name": "Vedant Poly Fabs Ltd",
    "type": "Mainboard",
@@ -608,17 +619,6 @@
    "lo": 203,
    "hi": 203,
    "lot": 600
-  },
-  {
-   "id": "ip-sfc-environmental-technologies-ltd",
-   "name": "Sfc Environmental Technologies Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd",
-   "src": "ipopremium",
-   "lo": 313,
-   "hi": 330,
-   "lot": 45
   },
   {
    "id": "ip-bls-polymers-ltd",
