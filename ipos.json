@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T03:17:12.373Z",
+ "updated": "2026-11-24T04:27:39.432Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 42
+   "count": 43
   },
   "ipopremium": {
    "ok": true,
@@ -164,6 +164,22 @@
    "logo": "https://media.ipoji.com/ipo/images/shree-siddhivinayak-greentech-industries-logo.png",
    "url": "https://www.ipoji.com/ipo/shree-siddhivinayak-greentech-industries-ipo",
    "size": "₹93.66 Cr",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "airpro-technology",
+   "name": "Airpro Technology India",
+   "type": "SME",
+   "ex": "NSE SME",
+   "lo": 99,
+   "hi": 99,
+   "lot": 1200,
+   "open": "2026-11-27",
+   "close": "2026-12-01",
+   "logo": "https://media.ipoji.com/ipo/images/airpro-ipo-logo.png",
+   "url": "https://www.ipoji.com/ipo/airpro-technology-ipo",
+   "size": "₹35.64 Cr",
    "src": "ipoji",
    "det": 1
   },
@@ -500,17 +516,6 @@
    "det": 1
   },
   {
-   "id": "ip-airpro-technology-india-ltd",
-   "name": "Airpro Technology India Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1455/airpro-technology-india-ltd",
-   "src": "ipopremium",
-   "lo": 99,
-   "hi": 99,
-   "lot": 1200
-  },
-  {
    "id": "ip-vedant-poly-fabs-ltd",
    "name": "Vedant Poly Fabs Ltd",
    "type": "Mainboard",
@@ -630,6 +635,17 @@
    "lo": 142,
    "hi": 150,
    "lot": 100
+  },
+  {
+   "id": "ip-sfc-environmental-technologies-ltd",
+   "name": "Sfc Environmental Technologies Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd",
+   "src": "ipopremium",
+   "lo": 313,
+   "hi": 330,
+   "lot": 45
   }
  ]
 }
