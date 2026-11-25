@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:09:34.070Z",
+ "updated": "2026-11-25T03:24:53.850Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -60,20 +60,6 @@
    "det": 1
   },
   {
-   "id": "integris-medtech",
-   "name": "Integris Medtech",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "open": "2026-11-27",
-   "close": "2026-12-01",
-   "logo": "https://media.ipoji.com/ipo/images/integris-medtech-logo.png",
-   "url": "https://www.ipoji.com/ipo/integris-medtech-ipo",
-   "size": "₹600.00 Crores Fresh + 1,08,37,266 Shares OFS",
-   "tent": true,
-   "src": "ipoji",
-   "det": 1
-  },
-  {
    "id": "matangi-rubber",
    "name": "Matangi Rubber",
    "type": "Mainboard",
@@ -110,9 +96,24 @@
    "name": "Encube Ethicals",
    "type": "Mainboard",
    "ex": "NSE · BSE",
+   "open": "2026-12-03",
+   "close": "2026-12-07",
    "logo": "https://media.ipoji.com/ipo/images/encube-ethicals-logo.png",
    "url": "https://www.ipoji.com/ipo/encube-ethicals-ipo",
    "size": "₹3000 Crores",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "milestone-gears",
+   "name": "Milestone Gears",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "open": "2026-12-04",
+   "close": "2026-12-08",
+   "logo": "https://media.ipoji.com/ipo/images/milestone-gears-logo.png",
+   "url": "https://www.ipoji.com/ipo/milestone-gears-ipo",
+   "size": "₹1100 Crores Approx.",
    "src": "ipoji",
    "det": 1
   },
@@ -128,13 +129,13 @@
    "det": 1
   },
   {
-   "id": "milestone-gears",
-   "name": "Milestone Gears",
+   "id": "integris-medtech",
+   "name": "Integris Medtech",
    "type": "Mainboard",
    "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/milestone-gears-logo.png",
-   "url": "https://www.ipoji.com/ipo/milestone-gears-ipo",
-   "size": "₹1100 Crores Approx.",
+   "logo": "https://media.ipoji.com/ipo/images/integris-medtech-logo.png",
+   "url": "https://www.ipoji.com/ipo/integris-medtech-ipo",
+   "size": "₹600.00 Crores Fresh + 1,08,37,266 Shares OFS",
    "src": "ipoji",
    "det": 1
   },
