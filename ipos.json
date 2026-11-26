@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T06:50:31.984Z",
+ "updated": "2026-11-26T12:54:12.094Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 45
+   "count": 46
   },
   "ipopremium": {
    "ok": true,
@@ -533,6 +533,17 @@
    "logo": "https://media.ipoji.com/ipo/images/zepto-logo.png",
    "url": "https://www.ipoji.com/ipo/zepto-ipo",
    "size": "₹8,010 Cr Fresh + 11.34 Crore Shares OFS",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "chartered-speed",
+   "name": "Chartered Speed",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/chartered-speed-logo.png",
+   "url": "https://www.ipoji.com/ipo/chartered-speed-ipo",
+   "size": "₹430 Cr",
    "src": "ipoji",
    "det": 1
   },
