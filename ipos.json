@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:45:43.580Z",
+ "updated": "2026-11-26T06:50:31.984Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -120,6 +120,17 @@
    "logo": "https://media.ipoji.com/ipo/images/avaada-electro-logo.png",
    "url": "https://www.ipoji.com/ipo/avaada-electro-ipo",
    "size": "₹7,600 Crores Approx.",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "swara-baby-products",
+   "name": "Swara Baby Products",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/swara-baby-logo.png",
+   "url": "https://www.ipoji.com/ipo/swara-baby-products-ipo",
+   "size": "₹1000 Crores",
    "src": "ipoji",
    "det": 1
   },
@@ -261,17 +272,6 @@
    "logo": "https://media.ipoji.com/ipo/images/hindustan-coca-cola-holdings-logo.png",
    "url": "https://www.ipoji.com/ipo/hindustan-coca-cola-ipo",
    "size": "99,74,61,456 shares",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "swara-baby-products",
-   "name": "Swara Baby Products",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/swara-baby-logo.png",
-   "url": "https://www.ipoji.com/ipo/swara-baby-products-ipo",
-   "size": "₹1000 Crores",
    "src": "ipoji",
    "det": 1
   },
@@ -559,6 +559,28 @@
    "lot": 1200
   },
   {
+   "id": "ip-maxwell-engineering-ltd",
+   "name": "Maxwell Engineering Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
+   "src": "ipopremium",
+   "lo": 150,
+   "hi": 158,
+   "lot": 800
+  },
+  {
+   "id": "ip-johnsoncab-electricals-ltd",
+   "name": "Johnsoncab Electricals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
+   "src": "ipopremium",
+   "lo": 190,
+   "hi": 200,
+   "lot": 600
+  },
+  {
    "id": "ip-hgs",
    "name": "Hgs",
    "type": "Mainboard",
@@ -579,28 +601,6 @@
    "lo": 99,
    "hi": 105,
    "lot": 1200
-  },
-  {
-   "id": "ip-johnsoncab-electricals-ltd",
-   "name": "Johnsoncab Electricals Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
-   "src": "ipopremium",
-   "lo": 190,
-   "hi": 200,
-   "lot": 600
-  },
-  {
-   "id": "ip-maxwell-engineering-ltd",
-   "name": "Maxwell Engineering Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
-   "src": "ipopremium",
-   "lo": 150,
-   "hi": 158,
-   "lot": 800
   },
   {
    "id": "ip-antala-industries-ltd",
@@ -625,6 +625,17 @@
    "lot": 182
   },
   {
+   "id": "ip-ajwa-projects-ltd",
+   "name": "Ajwa Projects Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
+   "src": "ipopremium",
+   "lo": 203,
+   "hi": 203,
+   "lot": 600
+  },
+  {
    "id": "ip-carver-roboweld-ltd",
    "name": "Carver Roboweld Ltd",
    "type": "Mainboard",
@@ -647,26 +658,15 @@
    "lot": 91
   },
   {
-   "id": "ip-ajwa-projects-ltd",
-   "name": "Ajwa Projects Ltd",
+   "id": "ip-wiscon-industries-ltd",
+   "name": "Wiscon Industries Ltd",
    "type": "Mainboard",
    "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
+   "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd",
    "src": "ipopremium",
-   "lo": 203,
-   "hi": 203,
+   "lo": 194,
+   "hi": 204,
    "lot": 600
-  },
-  {
-   "id": "ip-bls-polymers-ltd",
-   "name": "Bls Polymers Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd",
-   "src": "ipopremium",
-   "lo": 142,
-   "hi": 150,
-   "lot": 100
   }
  ]
 }
