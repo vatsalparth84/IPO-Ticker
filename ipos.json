@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:54:12.094Z",
+ "updated": "2026-11-26T15:26:44.364Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -56,6 +56,19 @@
    "logo": "https://media.ipoji.com/ipo/images/matangi-rubber-logo.png",
    "url": "https://www.ipoji.com/ipo/matangi-rubber-ipo",
    "size": "₹125.16 Cr",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "swara-baby-products",
+   "name": "Swara Baby Products",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "open": "2026-12-02",
+   "close": "2026-12-04",
+   "logo": "https://media.ipoji.com/ipo/images/swara-baby-logo.png",
+   "url": "https://www.ipoji.com/ipo/swara-baby-products-ipo",
+   "size": "₹800 Cr",
    "src": "ipoji",
    "det": 1
   },
@@ -120,17 +133,6 @@
    "logo": "https://media.ipoji.com/ipo/images/avaada-electro-logo.png",
    "url": "https://www.ipoji.com/ipo/avaada-electro-ipo",
    "size": "₹7,600 Crores Approx.",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "swara-baby-products",
-   "name": "Swara Baby Products",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/swara-baby-logo.png",
-   "url": "https://www.ipoji.com/ipo/swara-baby-products-ipo",
-   "size": "₹1000 Crores",
    "src": "ipoji",
    "det": 1
   },
@@ -581,17 +583,6 @@
    "lot": 800
   },
   {
-   "id": "ip-johnsoncab-electricals-ltd",
-   "name": "Johnsoncab Electricals Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
-   "src": "ipopremium",
-   "lo": 190,
-   "hi": 200,
-   "lot": 600
-  },
-  {
    "id": "ip-hgs",
    "name": "Hgs",
    "type": "Mainboard",
@@ -601,6 +592,17 @@
    "lo": 114,
    "hi": 120,
    "lot": 1200
+  },
+  {
+   "id": "ip-johnsoncab-electricals-ltd",
+   "name": "Johnsoncab Electricals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
+   "src": "ipopremium",
+   "lo": 190,
+   "hi": 200,
+   "lot": 600
   },
   {
    "id": "ip-vectras-enprocon",
@@ -647,17 +649,6 @@
    "lot": 600
   },
   {
-   "id": "ip-carver-roboweld-ltd",
-   "name": "Carver Roboweld Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
-   "src": "ipopremium",
-   "lo": 76,
-   "hi": 80,
-   "lot": 1600
-  },
-  {
    "id": "ip-mksons-fine-jewels-ltd",
    "name": "Mksons Fine Jewels Ltd",
    "type": "Mainboard",
@@ -667,6 +658,17 @@
    "lo": 153,
    "hi": 162,
    "lot": 91
+  },
+  {
+   "id": "ip-carver-roboweld-ltd",
+   "name": "Carver Roboweld Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
+   "src": "ipopremium",
+   "lo": 76,
+   "hi": 80,
+   "lot": 1600
   },
   {
    "id": "ip-wiscon-industries-ltd",
