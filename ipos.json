@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T03:24:53.850Z",
+ "updated": "2026-11-26T00:40:25.148Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 46
+   "count": 45
   },
   "ipopremium": {
    "ok": true,
@@ -11,22 +11,6 @@
   }
  },
  "ipos": [
-  {
-   "id": "crystal-crop-protection",
-   "name": "Crystal Crop Protection",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "lo": 259,
-   "hi": 272,
-   "lot": 55,
-   "open": "2026-11-18",
-   "close": "2026-11-20",
-   "logo": "https://media.ipoji.com/ipo/images/crystal-crop-protection-logo.png",
-   "url": "https://www.ipoji.com/ipo/crystal-crop-protection-ipo",
-   "size": "₹455.72 Cr",
-   "src": "ipoji",
-   "det": 1
-  },
   {
    "id": "mahanadi-coalfields",
    "name": "Mahanadi Coalfields",
@@ -553,6 +537,17 @@
    "det": 1
   },
   {
+   "id": "ip-crystal-crop-protection-ltd",
+   "name": "Crystal Crop Protection Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd",
+   "src": "ipopremium",
+   "lo": 259,
+   "hi": 272,
+   "lot": 55
+  },
+  {
    "id": "ip-vedant-poly-fabs-ltd",
    "name": "Vedant Poly Fabs Ltd",
    "type": "Mainboard",
@@ -672,17 +667,6 @@
    "lo": 142,
    "hi": 150,
    "lot": 100
-  },
-  {
-   "id": "ip-sfc-environmental-technologies-ltd",
-   "name": "Sfc Environmental Technologies Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd",
-   "src": "ipopremium",
-   "lo": 313,
-   "hi": 330,
-   "lot": 45
   }
  ]
 }
