@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:40:25.148Z",
+ "updated": "2026-11-26T05:45:43.580Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -102,17 +102,6 @@
    "det": 1
   },
   {
-   "id": "avaada-electro",
-   "name": "Avaada Electro",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/avaada-electro-logo.png",
-   "url": "https://www.ipoji.com/ipo/avaada-electro-ipo",
-   "size": "₹7,600 Crores Approx.",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
    "id": "integris-medtech",
    "name": "Integris Medtech",
    "type": "Mainboard",
@@ -120,6 +109,17 @@
    "logo": "https://media.ipoji.com/ipo/images/integris-medtech-logo.png",
    "url": "https://www.ipoji.com/ipo/integris-medtech-ipo",
    "size": "₹600.00 Crores Fresh + 1,08,37,266 Shares OFS",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "avaada-electro",
+   "name": "Avaada Electro",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/avaada-electro-logo.png",
+   "url": "https://www.ipoji.com/ipo/avaada-electro-ipo",
+   "size": "₹7,600 Crores Approx.",
    "src": "ipoji",
    "det": 1
   },
@@ -243,6 +243,17 @@
    "det": 1
   },
   {
+   "id": "cultfit",
+   "name": "Cult.fit",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/cultfit-logo.png",
+   "url": "https://www.ipoji.com/ipo/cultfit-ipo",
+   "size": "₹960 Crores Fresh + 17.86 Crore shares OFS",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
    "id": "hindustan-coca-cola",
    "name": "Hindustan Coca Cola Holdings",
    "type": "Mainboard",
@@ -316,6 +327,28 @@
    "logo": "https://media.ipoji.com/ipo/images/credila-financial-logo.jpeg",
    "url": "https://www.ipoji.com/ipo/credila-financial-services-ipo",
    "size": "₹5000 Crores Approx",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "svatantra-microfin",
+   "name": "Svatantra Microfin",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/svatantra-microfin-limited-logo.png",
+   "url": "https://www.ipoji.com/ipo/svatantra-microfin-ipo",
+   "size": "₹3000 Cr",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "sembcorp-green-infra",
+   "name": "Sembcorp Green Infra",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "logo": "https://media.ipoji.com/ipo/images/sembcorp-green-infra-ltd-logo.png",
+   "url": "https://www.ipoji.com/ipo/sembcorp-green-infra-ipo",
+   "size": "₹3750 Cr",
    "src": "ipoji",
    "det": 1
   },
@@ -500,39 +533,6 @@
    "logo": "https://media.ipoji.com/ipo/images/zepto-logo.png",
    "url": "https://www.ipoji.com/ipo/zepto-ipo",
    "size": "₹8,010 Cr Fresh + 11.34 Crore Shares OFS",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "cultfit",
-   "name": "Cult.fit",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/cultfit-logo.png",
-   "url": "https://www.ipoji.com/ipo/cultfit-ipo",
-   "size": "₹960 Crores Fresh + 17.86 Crore shares OFS",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "sembcorp-green-infra",
-   "name": "Sembcorp Green Infra",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/sembcorp-green-infra-ltd-logo.png",
-   "url": "https://www.ipoji.com/ipo/sembcorp-green-infra-ipo",
-   "size": "₹3750 Cr",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "svatantra-microfin",
-   "name": "Svatantra Microfin",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "logo": "https://media.ipoji.com/ipo/images/svatantra-microfin-limited-logo.png",
-   "url": "https://www.ipoji.com/ipo/svatantra-microfin-ipo",
-   "size": "₹3000 Cr",
    "src": "ipoji",
    "det": 1
   },
