@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:19:29.266Z",
+ "updated": "2026-11-27T02:45:23.230Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -48,6 +48,9 @@
    "name": "Swara Baby Products",
    "type": "Mainboard",
    "ex": "NSE · BSE",
+   "lo": 105,
+   "hi": 111,
+   "lot": 135,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "logo": "https://media.ipoji.com/ipo/images/swara-baby-logo.png",
