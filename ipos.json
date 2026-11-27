@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:26:44.364Z",
+ "updated": "2026-11-27T00:19:29.266Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 46
+   "count": 44
   },
   "ipopremium": {
    "ok": true,
@@ -11,22 +11,6 @@
   }
  },
  "ipos": [
-  {
-   "id": "mahanadi-coalfields",
-   "name": "Mahanadi Coalfields",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "lo": 129,
-   "hi": 136,
-   "lot": 110,
-   "open": "2026-11-19",
-   "close": "2026-11-23",
-   "logo": "https://media.ipoji.com/ipo/images/mahanadi-coalfields-logo.png",
-   "url": "https://www.ipoji.com/ipo/mahanadi-coalfields-ipo",
-   "size": "₹8981.12 Cr",
-   "src": "ipoji",
-   "det": 1
-  },
   {
    "id": "foodlink-fb",
    "name": "Foodlink F&B Holdings (India)",
@@ -133,22 +117,6 @@
    "logo": "https://media.ipoji.com/ipo/images/avaada-electro-logo.png",
    "url": "https://www.ipoji.com/ipo/avaada-electro-ipo",
    "size": "₹7,600 Crores Approx.",
-   "src": "ipoji",
-   "det": 1
-  },
-  {
-   "id": "watrana-rentals",
-   "name": "Watrana Rentals",
-   "type": "SME",
-   "ex": "NSE SME",
-   "lo": 232,
-   "hi": 245,
-   "lot": 600,
-   "open": "2026-11-19",
-   "close": "2026-11-23",
-   "logo": "https://media.ipoji.com/ipo/images/watrana-logo.png",
-   "url": "https://www.ipoji.com/ipo/watrana-rentals-ipo",
-   "size": "₹120.1 Cr",
    "src": "ipoji",
    "det": 1
   },
@@ -550,6 +518,28 @@
    "det": 1
   },
   {
+   "id": "ip-watrana-rentals-ltd",
+   "name": "Watrana Rentals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd",
+   "src": "ipopremium",
+   "lo": 232,
+   "hi": 245,
+   "lot": 600
+  },
+  {
+   "id": "ip-mahanadi-coalfields",
+   "name": "Mahanadi Coalfields",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields",
+   "src": "ipopremium",
+   "lo": 129,
+   "hi": 136,
+   "lot": 110
+  },
+  {
    "id": "ip-crystal-crop-protection-ltd",
    "name": "Crystal Crop Protection Ltd",
    "type": "Mainboard",
@@ -658,28 +648,6 @@
    "lo": 153,
    "hi": 162,
    "lot": 91
-  },
-  {
-   "id": "ip-carver-roboweld-ltd",
-   "name": "Carver Roboweld Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
-   "src": "ipopremium",
-   "lo": 76,
-   "hi": 80,
-   "lot": 1600
-  },
-  {
-   "id": "ip-wiscon-industries-ltd",
-   "name": "Wiscon Industries Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd",
-   "src": "ipopremium",
-   "lo": 194,
-   "hi": 204,
-   "lot": 600
   }
  ]
 }
