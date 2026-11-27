@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-27T02:45:23.230Z",
+ "updated": "2026-11-27T06:53:15.593Z",
  "sources": {
   "ipoji": {
    "ok": true,
-   "count": 44
+   "count": 45
   },
   "ipopremium": {
    "ok": true,
@@ -168,6 +168,22 @@
    "logo": "https://media.ipoji.com/ipo/images/aj-packaging-logo.jpg",
    "url": "https://www.ipoji.com/ipo/a-j-packaging-ipo",
    "size": "₹54 Cr",
+   "src": "ipoji",
+   "det": 1
+  },
+  {
+   "id": "vishwas-refoils-consumer",
+   "name": "Vishwas Refoils Consumer",
+   "type": "SME",
+   "ex": "BSE SME",
+   "lo": 85,
+   "hi": 90,
+   "lot": 1600,
+   "open": "2026-12-03",
+   "close": "2026-12-07",
+   "logo": "https://media.ipoji.com/ipo/images/vishwas_refoils_logo.png",
+   "url": "https://www.ipoji.com/ipo/vishwas-refoils-consumer-ipo",
+   "size": "₹25.78 Cr",
    "src": "ipoji",
    "det": 1
   },
@@ -642,15 +658,15 @@
    "lot": 600
   },
   {
-   "id": "ip-mksons-fine-jewels-ltd",
-   "name": "Mksons Fine Jewels Ltd",
+   "id": "ip-carver-roboweld-ltd",
+   "name": "Carver Roboweld Ltd",
    "type": "Mainboard",
    "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd",
+   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
    "src": "ipopremium",
-   "lo": 153,
-   "hi": 162,
-   "lot": 91
+   "lo": 76,
+   "hi": 80,
+   "lot": 1600
   }
  ]
 }
