@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:50:09.133Z",
+ "updated": "2026-11-28T08:03:20.761Z",
  "sources": {
   "ipoji": {
    "ok": true,
@@ -547,17 +547,6 @@
    "hi": 0
   },
   {
-   "id": "ip-watrana-rentals-ltd",
-   "name": "Watrana Rentals Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd",
-   "src": "ipopremium",
-   "lo": 232,
-   "hi": 245,
-   "lot": 600
-  },
-  {
    "id": "ip-mahanadi-coalfields",
    "name": "Mahanadi Coalfields",
    "type": "Mainboard",
@@ -567,6 +556,17 @@
    "lo": 129,
    "hi": 136,
    "lot": 110
+  },
+  {
+   "id": "ip-watrana-rentals-ltd",
+   "name": "Watrana Rentals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd",
+   "src": "ipopremium",
+   "lo": 232,
+   "hi": 245,
+   "lot": 600
   },
   {
    "id": "ip-crystal-crop-protection-ltd",
@@ -591,6 +591,17 @@
    "lot": 1200
   },
   {
+   "id": "ip-johnsoncab-electricals-ltd",
+   "name": "Johnsoncab Electricals Ltd",
+   "type": "Mainboard",
+   "ex": "NSE · BSE",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
+   "src": "ipopremium",
+   "lo": 190,
+   "hi": 200,
+   "lot": 600
+  },
+  {
    "id": "ip-hgs",
    "name": "Hgs",
    "type": "Mainboard",
@@ -611,17 +622,6 @@
    "lo": 150,
    "hi": 158,
    "lot": 800
-  },
-  {
-   "id": "ip-johnsoncab-electricals-ltd",
-   "name": "Johnsoncab Electricals Ltd",
-   "type": "Mainboard",
-   "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
-   "src": "ipopremium",
-   "lo": 190,
-   "hi": 200,
-   "lot": 600
   },
   {
    "id": "ip-vectras-enprocon",
@@ -657,15 +657,15 @@
    "lot": 182
   },
   {
-   "id": "ip-carver-roboweld-ltd",
-   "name": "Carver Roboweld Ltd",
+   "id": "ip-mksons-fine-jewels-ltd",
+   "name": "Mksons Fine Jewels Ltd",
    "type": "Mainboard",
    "ex": "NSE · BSE",
-   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
+   "url": "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd",
    "src": "ipopremium",
-   "lo": 76,
-   "hi": 80,
-   "lot": 1600
+   "lo": 153,
+   "hi": 162,
+   "lot": 91
   }
  ]
 }
